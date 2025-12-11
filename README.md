@@ -40,7 +40,8 @@
 
 ## 🌟 Top Languages  
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayaragavan-dev&layout=compact&theme=tokyonight" />
+  <!-- Stable mirror for the top-langs card; uses your username -->
+  <img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vijayaragavan-dev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
