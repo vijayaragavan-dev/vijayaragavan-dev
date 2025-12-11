@@ -19,34 +19,34 @@
 ## 🧑‍💻 About Me
 - 🎓 CSE Student @ Saranathan College of Engineering  
 - 💡 Interested in **Web Development, AI, and Software Engineering**  
-- 🌱 Currently learning **DSA**, **React**, **Next.js**, and **AI tools**  
-- ⚡ Fun fact: I love building cool UIs and creative projects.
+- 🌱 Currently learning **DSA**, **React**, **Next.js**, and AI tools  
+- ⚡ Fun fact: I love building clean UIs and creative applications.
 
 ---
 
 ## 🚀 I Code In
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,react,nextjs,tailwind,html,css,git,github,bootstrap,mysql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,react,nextjs,tailwind,html,css,git,github,bootstrap,mysql" />
 </p>
 
 ---
 
-## 🛠️ Tools & Technologies I Use
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,figma,linux,firebase,vercel,postman,git,github" />
+## 🛠️ Tools & Technologies I Use  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,figma,linux,firebase,vercel,postman,git,github,mongodb,mysql,androidstudio,idea,anaconda" />
 </p>
 
 ---
 
 ## 🌟 Top Languages  
 <p align="center">
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayaragavan-dev&layout=compact&theme=tokyonight" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayaragavan-dev&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## ✨ Profile Views
-<p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=vijayaragavan-dev&style=for-the-badge&color=blue" />
 </p>
 
@@ -54,7 +54,7 @@
 
 ## 📫 Contact Me
 - 📩 Email: your-email-here  
-- 🔗 Portfolio: https://vijayaragavan-portfolio-phiv.vercel.app
+- 🔗 Portfolio: https://vijayaragavan-portfolio-phiv.vercel.app  
 
 ---
 
