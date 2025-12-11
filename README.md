@@ -1,11 +1,4 @@
-## Hi there 👋
-
-<!--
-**vijayaragavan-dev/vijayaragavan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...<h1 align="center">Hi there 👋 I'm Vijayaragavan</h1>
+<h1 align="center">Hi there 👋 I'm Vijayaragavan</h1>
 
 <p align="center">
   <b>Aspiring Software Engineer | CSE @ Saranathan College</b><br/>
@@ -81,12 +74,3 @@ Here are some ideas to get you started:
 ---
 
 ⭐ **If you like my profile, don’t forget to star my repositories!**
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
