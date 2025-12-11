@@ -51,7 +51,7 @@
     <img src="https://img.shields.io/badge/email-harinivishal5@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <br/>
-  🔗 Portfolio: https://vijayaragavan-portfolio-phiv.vercel.app
+  🔗 Portfolio: https://vijayaragavan-portfolio-phi.vercel.app/
 </p>
 
 ---
