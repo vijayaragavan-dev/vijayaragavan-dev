@@ -9,6 +9,7 @@
 
 ## 🔗 Social Links  
 <p align="left">
+
   <a href="https://github.com/vijayaragavan-dev">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
@@ -20,15 +21,21 @@
   <a href="https://www.linkedin.com/in/vijaya-ragavan-17a344370">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-- 🎓 CSE Student @ Saranathan College of Engineering  
-- 💡 Interested in **Web Development, AI, and Software Engineering**  
-- 🌱 Currently learning **DSA**, **React**, **Next.js**, and AI tools  
-- ⚡ Fun fact: I love building clean UIs and creative applications.
+## 🧑‍💻 About Me  
+
+- 🎓 **CSE Student @ Saranathan College of Engineering**  
+- 🧠 Passionate about **Web Development**, **AI**, and **Software Engineering**  
+- 🧩 Currently mastering:  
+  - 📘 **Data Structures & Algorithms (DSA)**  
+  - ⚛️ **React & Next.js**  
+  - 🤖 **AI tools, automation & modern developer workflows**  
+- 🎨 I love building **clean, creative, user-centric interfaces**  
+- 🚀 Always exploring new technologies & improving problem-solving skills  
 
 ---
 
