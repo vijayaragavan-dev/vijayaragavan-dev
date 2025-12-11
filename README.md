@@ -45,9 +45,14 @@
 
 ---
 
-## 📫 Contact Me
-- 📩 Email: your-email-here  
-- 🔗 Portfolio: https://vijayaragavan-portfolio-phiv.vercel.app  
+## 📫 Contact Me  
+<p>
+  <a href="mailto:harinivishal5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-harinivishal5@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <br/>
+  🔗 Portfolio: https://vijayaragavan-portfolio-phiv.vercel.app
+</p>
 
 ---
 
