@@ -38,14 +38,6 @@
 
 ---
 
-## 🌟 Top Languages  
-<p align="center">
-  <!-- Stable mirror for the top-langs card; uses your username -->
-  <img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vijayaragavan-dev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## ✨ Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vijayaragavan-dev&style=for-the-badge&color=blue" />
