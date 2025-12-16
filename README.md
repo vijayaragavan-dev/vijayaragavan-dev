@@ -32,7 +32,7 @@
 - 🧠 Passionate about **Web Development**, **AI**, and **Software Engineering**  
 - 🧩 Currently mastering:  
   - 📘 **Data Structures & Algorithms (DSA)**  
-  - ⚛️ **React & Next.js**  
+  - ⚛️ **React **  
   - 🤖 **AI tools, automation & modern developer workflows**  
 - 🎨 I love building **clean, creative, user-centric interfaces**  
 - 🚀 Always exploring new technologies & improving problem-solving skills  
