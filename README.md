@@ -32,7 +32,7 @@
 - 🧠 Passionate about **Web Development**, **AI**, and **Software Engineering**  
 - 🧩 Currently mastering:  
   - 📘 **Data Structures & Algorithms (DSA)**  
-  - ⚛️ **React**  
+  - ⚛️ **DBMS**  
   - 🤖 **AI tools, automation & modern developer workflows**  
 - 🎨 I love building **clean, creative, user-centric interfaces**  
 - 🚀 Always exploring new technologies & improving problem-solving skills  
@@ -41,7 +41,7 @@
 
 ## 🚀 I Code In
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,react,nextjs,tailwind,html,css,git,github,bootstrap,mysql" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,nextjs,tailwind,html,css,git,github,bootstrap,mysql" />
 </p>
 
 ---
