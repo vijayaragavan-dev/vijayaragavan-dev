@@ -45,35 +45,36 @@
 
 ## 🚀 I Code In
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,nextjs,tailwind,html,css,git,github,bootstrap,mysql" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,git,github,mysql" />
 </p>
 
 ---
 
 ## 🛠️ Tools & Technologies I Use  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,figma,linux,firebase,vercel,postman,git,github,mongodb,mysql,androidstudio,idea,anaconda" />
+  <img src="https://skillicons.dev/icons?i=vscode,figma,linux,firebase,vercel,spring boot,postman,maven,git,github,mongodb,mysql,androidstudio,idea,anaconda" />
 </p>
 
 ---
-
 ## 🧠 LeetCode Statistics  
 
 <p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=Vijayaragavan%20U&theme=dark" />
+  <img src="https://leetcode-stats-six.vercel.app/api?username=nKuOYqMrFj&theme=dark" />
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/Vijayaragavan%20U/">
+  <a href="https://leetcode.com/u/nKuOYqMrFj/">
     <img src="https://img.shields.io/badge/LeetCode-Visit%20Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Vijayaragavan%20U?theme=dark&font=Karma&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/nKuOYqMrFj?theme=dark&font=Karma&ext=contest" />
 </p>
 
 ---
+
+
 
 ## ✨ Profile Views
 <p align="center">
