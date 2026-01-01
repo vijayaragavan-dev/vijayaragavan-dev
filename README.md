@@ -26,16 +26,20 @@
 
 ---
 
+
 ## 🧑‍💻 About Me  
 
 - 🎓 **CSE Student @ Saranathan College of Engineering**  
-- 🧠 Passionate about **Web Development**, **AI**, and **Software Engineering**  
-- 🧩 Currently mastering:  
+- ☕ Passionate about **Java Backend Development**, **AI/ML**, and **Software Engineering**  
+- 🧩 Currently strengthening my skills in:  
   - 📘 **Data Structures & Algorithms (DSA)**  
-  - ⚛️ **DBMS**  
-  - 🤖 **AI tools, automation & modern developer workflows**  
-- 🎨 I love building **clean, creative, user-centric interfaces**  
-- 🚀 Always exploring new technologies & improving problem-solving skills  
+  - ⚛️ **DBMS & SQL (LeetCode Database & Query Optimization)**  
+  - 🌱 **Spring Boot, Hibernate, JPA & Backend Architectures**  
+  - 🤖 **AI/ML fundamentals and intelligent system design**  
+- 🎨 I enjoy writing **clean, scalable, and maintainable code**  
+- 🚀 Constantly learning, building projects, and improving problem-solving skills  
+
+
 
 ---
 
@@ -49,6 +53,24 @@
 ## 🛠️ Tools & Technologies I Use  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,figma,linux,firebase,vercel,postman,git,github,mongodb,mysql,androidstudio,idea,anaconda" />
+</p>
+
+---
+
+## 🧠 LeetCode Statistics  
+
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=Vijayaragavan%20U&theme=dark" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/Vijayaragavan%20U/">
+    <img src="https://img.shields.io/badge/LeetCode-Visit%20Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Vijayaragavan%20U?theme=dark&font=Karma&ext=contest" />
 </p>
 
 ---
