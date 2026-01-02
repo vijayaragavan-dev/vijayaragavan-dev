@@ -1,8 +1,8 @@
-<h1 align="center">Hi there 👋 I'm Vijayaragavan</h1>
+<h1 align="center">Hi 👋 I'm Vijayaragavan U</h1>
 
 <p align="center">
-  <b>Aspiring Software Engineer | CSE @ Saranathan College</b><br/>
-  Passionate about building meaningful software and learning modern technologies.
+  <b>Aspiring Software Engineer | CSE @ Saranathan College of Engineering</b><br/>
+  Passionate about backend development, DSA, and building scalable systems.
 </p>
 
 ---
@@ -26,20 +26,17 @@
 
 ---
 
-
 ## 🧑‍💻 About Me  
 
-- 🎓 **CSE Student @ Saranathan College of Engineering**  
-- ☕ Passionate about **Java Backend Development**, **AI/ML**, and **Software Engineering**  
-- 🧩 Currently strengthening my skills in:  
-  - 📘 **Data Structures & Algorithms (DSA)**  
-  - ⚛️ **DBMS & SQL (LeetCode Database & Query Optimization)**  
-  - 🌱 **Spring Boot, Hibernate, JPA & Backend Architectures**  
-  - 🤖 **AI/ML fundamentals and intelligent system design**  
-- 🎨 I enjoy writing **clean, scalable, and maintainable code**  
-- 🚀 Constantly learning, building projects, and improving problem-solving skills  
-
-
+- 🎓 **CSE Student @ Saranathan College of Engineering**
+- ☕ Strong interest in **Java Backend Development & Software Engineering**
+- 🧠 Currently improving skills in:
+  - 📘 **Data Structures & Algorithms (LeetCode – Java & SQL)**
+  - 🗄️ **DBMS, SQL & Query Optimization**
+  - 🌱 **Spring Boot, Hibernate, JPA**
+  - 🤖 **AI/ML fundamentals**
+- ✨ I focus on writing **clean, maintainable, and scalable code**
+- 🚀 Goal: Become a **high-quality software engineer**
 
 ---
 
@@ -52,10 +49,11 @@
 
 ## 🛠️ Tools & Technologies I Use  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,figma,linux,firebase,vercel,spring boot,postman,maven,git,github,mongodb,mysql,androidstudio,idea,anaconda" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,postman,maven,git,github,mongodb,mysql,linux,firebase,vercel,figma,anaconda" />
 </p>
 
 ---
+
 ## 🧠 LeetCode Statistics  
 
 <p align="center">
@@ -64,7 +62,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/nKuOYqMrFj/">
-    <img src="https://img.shields.io/badge/LeetCode-Visit%20Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-Vijayaragavan%20U-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
@@ -72,9 +70,11 @@
   <img src="https://leetcard.jacoblin.cool/nKuOYqMrFj?theme=dark&font=Karma&ext=contest" />
 </p>
 
+<p align="center">
+  <i>LeetCode Username: <b>nKuOYqMrFj</b></i>
+</p>
+
 ---
-
-
 
 ## ✨ Profile Views
 <p align="center">
@@ -84,13 +84,15 @@
 ---
 
 ## 📫 Contact Me  
+
 <p>
   <a href="mailto:harinivishal5@gmail.com">
-    <img src="https://img.shields.io/badge/email-harinivishal5@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-harinivishal5@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <br/>
-  🔗 Portfolio: https://vijayaragavan-portfolio-phi.vercel.app/
 </p>
+
+🔗 **Portfolio:**  
+https://vijayaragavan-portfolio-phi.vercel.app/
 
 ---
 
