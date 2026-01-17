@@ -61,7 +61,7 @@
 
 <!-- Stats Card -->
 <p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=uvijayaragavan-dev&theme=dark" />
+  <img src="https://leetcode-badge-sage.vercel.app/badge/uvijayaragavan-dev?theme=dark&bgColor=282828" alt="LeetCode Badge"/>
 </p>
 
 <!-- Profile Button -->
