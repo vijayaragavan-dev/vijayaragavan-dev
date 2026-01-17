@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋 I'm Vijayaragavan U</h1>
+<!-- Smooth Typing Intro -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&size=32&pause=1000&color=00C0FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Vijayaragavan+U;Aspiring+Software+Engineer;Backend+Developer+%7C+Java+%7C+Spring+Boot;Passionate+about+DSA+%26+System+Design" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <b>Aspiring Software Engineer | CSE @ Saranathan College of Engineering</b><br/>
@@ -8,13 +11,13 @@
 ---
 
 ## 🔗 Social Links  
-<p align="left">
+<p align="center">
 
   <a href="https://github.com/vijayaragavan-dev">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 
-  <a href="https://www.instagram.com/goat_v_ragvan?igsh=aTk0eGV4anB2ZnIw">
+  <a href="https://www.instagram.com/goat_v_ragvan?igsh=aTk0eGV4anp2ZnIw">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 
@@ -56,16 +59,19 @@
 
 ## 🧠 LeetCode Statistics  
 
+<!-- Stats Card -->
 <p align="center">
   <img src="https://leetcode-stats-six.vercel.app/api?username=uvijayaragavan-dev&theme=dark" />
 </p>
 
+<!-- Profile Button -->
 <p align="center">
   <a href="https://leetcode.com/u/uvijayaragavan-dev/">
     <img src="https://img.shields.io/badge/LeetCode-Vijayaragavan%20U-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
+<!-- Heatmap -->
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/uvijayaragavan-dev?theme=dark&ext=heatmap" />
 </p>
@@ -85,7 +91,7 @@
 
 ## 📫 Contact Me  
 
-<p>
+<p align="center">
   <a href="mailto:harinivishal5@gmail.com">
     <img src="https://img.shields.io/badge/Email-harinivishal5@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
