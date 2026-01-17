@@ -57,21 +57,21 @@
 ## 🧠 LeetCode Statistics  
 
 <p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=nKuOYqMrFj&theme=dark" />
+  <img src="https://leetcode-stats-six.vercel.app/api?username=uvijayaragavan-dev&theme=dark" />
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/nKuOYqMrFj/">
+  <a href="https://leetcode.com/u/uvijayaragavan-dev/">
     <img src="https://img.shields.io/badge/LeetCode-Vijayaragavan%20U-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/nKuOYqMrFj?theme=dark&font=Karma&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/uvijayaragavan-dev?theme=dark&ext=heatmap" />
 </p>
 
 <p align="center">
-  <i>LeetCode Username: <b>nKuOYqMrFj</b></i>
+  <i>LeetCode Username: <b>uvijayaragavan-dev</b></i>
 </p>
 
 ---
