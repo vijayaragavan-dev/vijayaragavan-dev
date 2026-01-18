@@ -59,10 +59,10 @@
 
 ## 🧠 LeetCode Statistics  
 
-<!-- Stats Card -->
+<!-- Stats Card 
 <p align="center">
   <img src="https://leetcode-badge-sage.vercel.app/badge/uvijayaragavan-dev?theme=dark&bgColor=282828" alt="LeetCode Badge"/>
-</p>
+</p> -->
 
 <!-- Profile Button -->
 <p align="center">
