@@ -47,7 +47,7 @@ Passionate about building scalable backend systems, solving algorithmic problems
 💡 Interested in:
 - Backend Development
 - Software Engineering
-- AI/ML Fundamentals
+- AI/ML Engineering
 - Data Structures & Algorithms
 - Database Systems
 - System Design
@@ -55,18 +55,18 @@ Passionate about building scalable backend systems, solving algorithmic problems
 ⚡ Currently focusing on:
 - Java + Spring Boot Backend Development
 - DSA & Competitive Problem Solving
-- SQL Optimization & DBMS
 - REST APIs & Scalable Architectures
+- SQL Optimization & DBMS
 - AI/ML Concepts and Applications
 
 🧠 I enjoy:
-- Building real-world projects
+- Building real-world applications
 - Writing clean and maintainable code
-- Learning deeply instead of superficially
-- Solving logical and analytical problems
+- Solving analytical problems
+- Learning modern software technologies deeply
 
 🚀 Career Goal:
-> To become a highly skilled software engineer capable of building impactful and scalable technology solutions.
+> To become a highly skilled software engineer capable of building scalable and impactful technology solutions.
 
 ---
 
@@ -77,7 +77,7 @@ Passionate about building scalable backend systems, solving algorithmic problems
 ### 👨‍💻 Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,html,css,sql" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,html,css" />
 </p>
 
 ---
@@ -85,7 +85,11 @@ Passionate about building scalable backend systems, solving algorithmic problems
 ### ⚙️ Backend & Database
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=spring,mysql,mongodb,firebase" />
+<img src="https://skillicons.dev/icons?i=spring,mysql,mongodb,firebase,supabase" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
 ---
@@ -111,7 +115,7 @@ Passionate about building scalable backend systems, solving algorithmic problems
 </p>
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/uvijayaragavan-dev?theme=dark&ext=heatmap" />
+<img src="https://leetcard.jacoblin.cool/uvijayaragavan-dev?theme=dark&font=Nunito&ext=heatmap" />
 </p>
 
 <p align="center">
@@ -124,26 +128,43 @@ Focused on strengthening problem-solving skills using Java and SQL.
 
 ## 📌 Featured Projects
 
-### 🌦️ Weather Application
-- Developed a weather forecasting application using Python
-- Fetches and displays real-time weather information
+### 🎓 TNEA Guider
+Smart guidance platform designed to help students explore colleges, courses, and counseling details efficiently.
 
-### 🛒 Electrical Shop E-Commerce Website
-- Built a responsive frontend-based e-commerce platform
-- Focused on UI responsiveness and user experience
+---
 
-### 🧮 Advanced Calculator Project
-- Developed a calculator supporting:
-  - Matrix Operations
-  - Algebraic Equation Solvers
-  - Trigonometric Calculations
-  - CGPA Calculator
+### 🛡️ Website Spam Detector
+Developed a system that identifies suspicious or spam websites using intelligent filtering and validation techniques.
 
-### 🎯 Interactive Frontend Projects
-- Quiz Application
-- Stopwatch
-- Image Slider
-- Responsive Navigation Bar
+---
+
+### 🛒 Full Stack E-Commerce Web Application
+Built a complete e-commerce platform with frontend, backend, authentication, and database integration.
+
+---
+
+### 🔐 Authentication System
+Implemented secure user authentication and authorization system with login, signup, session handling, and validation.
+
+---
+
+### 🤖 Simple Chatbot
+Created an interactive chatbot capable of handling user queries and basic conversational responses.
+
+---
+
+### 🌐 Personal Portfolio Website
+Designed and developed a responsive personal portfolio showcasing skills, projects, and technical profile.
+
+---
+
+### 🏡 Interior AI – Home Design Suggestion Assistant
+AI-powered assistant that provides smart interior and home design suggestions based on user preferences.
+
+---
+
+### 📸 Insta Clone – Simple Social Media Web Application
+Built a lightweight Instagram-inspired application with post sharing and responsive UI features.
 
 ---
 
@@ -153,10 +174,11 @@ Focused on strengthening problem-solving skills using Java and SQL.
 
 - Spring Boot & REST APIs
 - Hibernate & JPA
+- Advanced DSA
 - System Design Basics
 - AI/ML Fundamentals
-- Advanced DSA
 - Backend Architecture
+- Scalable Application Development
 
 ---
 
@@ -166,9 +188,15 @@ Focused on strengthening problem-solving skills using Java and SQL.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vijayaragavan-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vijayaragavan-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=vijayaragavan-dev&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vijayaragavan-dev&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -188,7 +216,7 @@ Focused on strengthening problem-solving skills using Java and SQL.
 
 ## 🌐 Portfolio
 
-🔗 https://vijayaragavan-portfolio-phi.vercel.app/
+🔗 https://vijayaragavan.vercel.app/
 
 ---
 
