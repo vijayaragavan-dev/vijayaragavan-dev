@@ -43,77 +43,117 @@
 
 ---
 
-## 🧑‍💻 About Me
+## ⚡ About Me
 
-<table>
+<br/>
+
+<!-- ROW 1 — Identity Card + API Response -->
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="40%" valign="top">
 
-### 🖥️ `~/vijayaragavan $ whoami`
+```json
+// 📡 GET /api/v1/developer/vijayaragavan
 
-```
-╔══════════════════════════════════════╗
-║         SYSTEM PROFILE v2025         ║
-╠══════════════════════════════════════╣
-║  Name    → Vijayaragavan U           ║
-║  Role    → Aspiring Software Eng.    ║
-║  College → Saranathan CE, Trichy     ║
-║  Degree  → B.E. CSE (3rd Year)       ║
-║  Status  → 🟢 Open to Opportunities  ║
-║  Goal    → Engineer @ Scale 🚀       ║
-╚══════════════════════════════════════╝
-```
+{
+  "name"    : "Vijayaragavan U",
+  "role"    : "Aspiring Software Engineer",
+  "college" : "Saranathan CE, Trichy",
+  "degree"  : "B.E. CSE — 3rd Year",
+  "status"  : "🟢 Open to Opportunities",
+  "goal"    : "Engineer @ Scale 🚀",
+  "passion" : "Build. Break. Learn. Repeat.",
+  "motto"   : "Consistency × Curiosity = 🔥"
+}
 
-</td>
-<td width="50%" valign="top">
-
-### ⚡ `~/vijayaragavan $ cat focus.log`
-
-```
-[ACTIVE]   Spring Boot & REST APIs      ████████░░ 80%
-[ACTIVE]   Advanced DSA (Java)          ███████░░░ 70%
-[ACTIVE]   System Design Basics         ██████░░░░ 60%
-[ACTIVE]   Hibernate & JPA              ██████░░░░ 60%
-[ACTIVE]   AI / ML Fundamentals         █████░░░░░ 50%
-[ACTIVE]   Backend Architecture         ████████░░ 80%
+// ✅ 200 OK  |  response_time: 0.001ms
 ```
 
 </td>
-</tr>
-<tr>
-<td valign="top">
+<td width="60%" valign="top">
 
-### 🧠 `~/vijayaragavan $ ls interests/`
+```yaml
+# 🧠 skill_matrix.yml — active_learning
 
-```bash
-📁 Backend_Development/
-📁 Software_Engineering/
-📁 AI_ML_Engineering/
-📁 Database_Systems/
-📁 Competitive_Programming/
-📁 Scalable_Architecture/
-```
+currently_running:
+  - module: Spring Boot & REST APIs
+    progress: "████████████████░░░░"   # 80%
+    status: ACTIVE
 
-</td>
-<td valign="top">
+  - module: Advanced DSA (Java)
+    progress: "██████████████░░░░░░"   # 70%
+    status: ACTIVE
 
-### 🎯 `~/vijayaragavan $ cat goals.sh`
+  - module: System Design
+    progress: "████████████░░░░░░░░"   # 60%
+    status: ACTIVE
 
-```bash
-#!/bin/bash
-echo "🏗️  Build impactful tech @ scale"
-echo "🧩  Master DSA & System Design"
-echo "🤝  Land a great placement 2026-27"
-echo "🌱  Never stop learning"
-echo "💡  Turn ideas into real products"
+  - module: Hibernate & JPA
+    progress: "████████████░░░░░░░░"   # 60%
+    status: ACTIVE
+
+  - module: AI / ML Fundamentals
+    progress: "██████████░░░░░░░░░░"   # 50%
+    status: ACTIVE
+
+  - module: Backend Architecture
+    progress: "████████████████░░░░"   # 80%
+    status: ACTIVE
 ```
 
 </td>
 </tr>
 </table>
 
+<br/>
+
+<!-- ROW 2 — Git log + Interests as imports -->
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+```bash
+$ git log --oneline --graph vijayaragavan
+
+* 🚀  feat: targeting placement 2026-27
+* 🧩  feat: mastering DSA & system design
+* 💡  feat: building 15+ real-world projects
+* ⚙️   feat: learning Spring Boot ecosystem
+* 🤖  feat: exploring AI/ML engineering
+* 📦  feat: internship @ InAmigos Foundation
+* 🌱  init: started B.E. CSE @ Saranathan
+```
+
+</td>
+<td width="50%" valign="top">
+
+```java
+// 📂 Interests.java
+
+import skills.BackendDevelopment;
+import skills.SoftwareEngineering;
+import skills.AIandML;
+import skills.DatabaseSystems;
+import skills.CompetitiveProgramming;
+import skills.ScalableArchitecture;
+import mindset.NeverStopLearning;
+
+public class Vijayaragavan
+  extends Engineer
+  implements Curious, Consistent {
+
+    // 💬 "Build impactful tech at scale."
+}
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=39D353&center=true&vCenter=true&width=700&lines=%E2%9C%94+process+completed+successfully+%7C+uptime%3A+21+years+%7C+bugs+fixed%3A+countless+%7C+coffee%3A+%E2%88%9E" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=3000&color=39D353&center=true&vCenter=true&width=750&lines=%E2%9C%94+All+systems+operational+%7C+passion%3A+%E2%88%9E+%7C+uptime%3A+21yrs+%7C+bugs_fixed%3A+countless+%7C+coffee%3A+critical_dependency" />
 </div>
 
 ---
