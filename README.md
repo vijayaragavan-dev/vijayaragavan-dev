@@ -45,26 +45,76 @@
 
 ## 🧑‍💻 About Me
 
-```java
-public class Vijayaragavan {
+<table>
+<tr>
+<td width="50%" valign="top">
 
-    String college    = "Saranathan College of Engineering, Trichy";
-    String degree     = "B.E. Computer Science & Engineering (3rd Year)";
-    String goal       = "Highly skilled Software Engineer @ Scale";
+### 🖥️ `~/vijayaragavan $ whoami`
 
-    String[] currentlyLearning = {
-        "Spring Boot & REST APIs", "Hibernate & JPA",
-        "Advanced DSA", "System Design", "AI/ML Fundamentals"
-    };
-
-    String[] interests = {
-        "Backend Development", "Software Engineering",
-        "AI/ML Engineering", "Database Systems", "Competitive Programming"
-    };
-
-    String motto = "Consistency, curiosity, and continuous learning drive great engineering.";
-}
 ```
+╔══════════════════════════════════════╗
+║         SYSTEM PROFILE v2025         ║
+╠══════════════════════════════════════╣
+║  Name    → Vijayaragavan U           ║
+║  Role    → Aspiring Software Eng.    ║
+║  College → Saranathan CE, Trichy     ║
+║  Degree  → B.E. CSE (3rd Year)       ║
+║  Status  → 🟢 Open to Opportunities  ║
+║  Goal    → Engineer @ Scale 🚀       ║
+╚══════════════════════════════════════╝
+```
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ `~/vijayaragavan $ cat focus.log`
+
+```
+[ACTIVE]   Spring Boot & REST APIs      ████████░░ 80%
+[ACTIVE]   Advanced DSA (Java)          ███████░░░ 70%
+[ACTIVE]   System Design Basics         ██████░░░░ 60%
+[ACTIVE]   Hibernate & JPA              ██████░░░░ 60%
+[ACTIVE]   AI / ML Fundamentals         █████░░░░░ 50%
+[ACTIVE]   Backend Architecture         ████████░░ 80%
+```
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### 🧠 `~/vijayaragavan $ ls interests/`
+
+```bash
+📁 Backend_Development/
+📁 Software_Engineering/
+📁 AI_ML_Engineering/
+📁 Database_Systems/
+📁 Competitive_Programming/
+📁 Scalable_Architecture/
+```
+
+</td>
+<td valign="top">
+
+### 🎯 `~/vijayaragavan $ cat goals.sh`
+
+```bash
+#!/bin/bash
+echo "🏗️  Build impactful tech @ scale"
+echo "🧩  Master DSA & System Design"
+echo "🤝  Land a great placement 2026-27"
+echo "🌱  Never stop learning"
+echo "💡  Turn ideas into real products"
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=39D353&center=true&vCenter=true&width=700&lines=%E2%9C%94+process+completed+successfully+%7C+uptime%3A+21+years+%7C+bugs+fixed%3A+countless+%7C+coffee%3A+%E2%88%9E" />
+</div>
 
 ---
 
