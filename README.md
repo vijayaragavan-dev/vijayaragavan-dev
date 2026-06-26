@@ -1,231 +1,164 @@
-<!-- ========================= INTRO ========================= -->
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Vijayaragavan U</h1>
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Vijayaragavan%20U&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Java%20Backend%20%E2%80%A2%20AI%2FML%20Enthusiast&descSize=16&descAlignY=60&animation=fadeIn"/>
 
-<h3 align="center">
-Aspiring Software Engineer • Java Backend Developer • AI/ML Enthusiast
-</h3>
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems+%F0%9F%9A%80;Solving+Problems+with+Algorithms+%F0%9F%A7%A0;Exploring+AI%2FML+Frontiers+%F0%9F%A4%96;Writing+Clean%2C+Maintainable+Code+%E2%9C%A8" alt="Typing SVG" />
+</a>
 
-<p align="center">
-Passionate about building scalable backend systems, solving algorithmic problems, and continuously learning modern technologies.
+<br/>
+
+<!-- SOCIAL BADGES -->
+<p>
+  <a href="https://github.com/vijayaragavan-dev">
+    <img src="https://img.shields.io/badge/GitHub-vijayaragavan--dev-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/vijaya-ragavan-17a344370">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://vijayaragavan.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Live-00C7B7?style=flat-square&logo=vercel&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/uvijayaragavan-dev/">
+    <img src="https://img.shields.io/badge/LeetCode-uvijayaragavan--dev-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
+  </a>
+  &nbsp;
+  <a href="mailto:harinivishal5@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Mail%20Me-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/goat_v_ragvan?igsh=aTk0eGV4anp2ZnIw">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
----
+<img src="https://komarev.com/ghpvc/?username=vijayaragavan-dev&style=flat-square&color=58A6FF&label=Profile+Views"/>
 
-<!-- ========================= SOCIAL LINKS ========================= -->
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/vijayaragavan-dev">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/vijaya-ragavan-17a344370">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/goat_v_ragvan?igsh=aTk0eGV4anp2ZnIw">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:harinivishal5@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-<!-- ========================= ABOUT ========================= -->
+## 🧑‍💻 About Me
 
-## 👨‍💻 About Me
+```java
+public class Vijayaragavan {
 
-🎓 CSE Student at **Saranathan College of Engineering**
+    String college    = "Saranathan College of Engineering, Trichy";
+    String degree     = "B.E. Computer Science & Engineering (3rd Year)";
+    String goal       = "Highly skilled Software Engineer @ Scale";
 
-💡 Interested in:
-- Backend Development
-- Software Engineering
-- AI/ML Engineering
-- Data Structures & Algorithms
-- Database Systems
-- System Design
+    String[] currentlyLearning = {
+        "Spring Boot & REST APIs", "Hibernate & JPA",
+        "Advanced DSA", "System Design", "AI/ML Fundamentals"
+    };
 
-⚡ Currently focusing on:
-- Java + Spring Boot Backend Development
-- DSA & Competitive Problem Solving
-- REST APIs & Scalable Architectures
-- SQL Optimization & DBMS
-- AI/ML Concepts and Applications
+    String[] interests = {
+        "Backend Development", "Software Engineering",
+        "AI/ML Engineering", "Database Systems", "Competitive Programming"
+    };
 
-🧠 I enjoy:
-- Building real-world applications
-- Writing clean and maintainable code
-- Solving analytical problems
-- Learning modern software technologies deeply
-
-🚀 Career Goal:
-> To become a highly skilled software engineer capable of building scalable and impactful technology solutions.
+    String motto = "Consistency, curiosity, and continuous learning drive great engineering.";
+}
+```
 
 ---
-
-<!-- ========================= TECH STACK ========================= -->
 
 ## 🚀 Tech Stack
 
-### 👨‍💻 Languages
+<div align="center">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,html,css" />
-</p>
+**Languages**
 
----
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp,html,css&theme=dark" />
 
-### ⚙️ Backend & Database
+**Backend & Database**
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=spring,mysql,mongodb,firebase,supabase" />
-</p>
+<img src="https://skillicons.dev/icons?i=spring,mysql,mongodb,firebase,supabase&theme=dark" />
+&nbsp;
+<img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white"/>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-</p>
+**Tools & Platforms**
 
----
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,maven,linux,vercel,figma,androidstudio&theme=dark" />
 
-### 🛠️ Tools & Platforms
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,maven,linux,vercel,figma,androidstudio" />
-</p>
+</div>
 
 ---
-
-<!-- ========================= LEETCODE ========================= -->
-
-## 🧠 Problem Solving & DSA
-
-<p align="center">
-
-<a href="https://leetcode.com/u/uvijayaragavan-dev/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-</p>
-
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/uvijayaragavan-dev?theme=dark&font=Nunito&ext=heatmap" />
-</p>
-
-<p align="center">
-Focused on strengthening problem-solving skills using Java and SQL.
-</p>
-
----
-
-<!-- ========================= PROJECTS ========================= -->
 
 ## 📌 Featured Projects
 
-### 🎓 TNEA Guider
-Smart guidance platform designed to help students explore colleges, courses, and counseling details efficiently.
+<div align="center">
+
+| # | Project | Description |
+|---|---------|-------------|
+| 🎓 | **TNEA Guider** | Smart platform to help students explore colleges, courses & counseling details |
+| 🛡️ | **Website Spam Detector** | Identifies suspicious/spam websites using intelligent filtering & validation |
+| 🛒 | **Full Stack E-Commerce App** | Complete platform with frontend, backend, auth & database integration |
+| 🔐 | **Authentication System** | Secure login, signup, session handling & validation system |
+| 🏡 | **Interior AI** | AI-powered home design suggestion assistant based on user preferences |
+| 📸 | **Insta Clone** | Lightweight Instagram-inspired app with post sharing & responsive UI |
+| 🤖 | **Simple Chatbot** | Interactive chatbot handling user queries & conversational responses |
+| 🌐 | **Portfolio Website** | Responsive personal portfolio showcasing skills & projects |
+
+</div>
 
 ---
 
-### 🛡️ Website Spam Detector
-Developed a system that identifies suspicious or spam websites using intelligent filtering and validation techniques.
+## 🧠 Problem Solving & DSA
+
+<div align="center">
+
+<a href="https://leetcode.com/u/uvijayaragavan-dev/">
+  <img src="https://img.shields.io/badge/LeetCode-Active%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<br/><br/>
+
+<img src="https://leetcard.jacoblin.cool/uvijayaragavan-dev?theme=dark&font=Nunito&ext=heatmap" />
+
+<br/>
+<sub>🎯 Focused on strengthening problem-solving skills using <strong>Java</strong> and <strong>SQL</strong></sub>
+
+</div>
 
 ---
-
-### 🛒 Full Stack E-Commerce Web Application
-Built a complete e-commerce platform with frontend, backend, authentication, and database integration.
-
----
-
-### 🔐 Authentication System
-Implemented secure user authentication and authorization system with login, signup, session handling, and validation.
-
----
-
-### 🤖 Simple Chatbot
-Created an interactive chatbot capable of handling user queries and basic conversational responses.
-
----
-
-### 🌐 Personal Portfolio Website
-Designed and developed a responsive personal portfolio showcasing skills, projects, and technical profile.
-
----
-
-### 🏡 Interior AI – Home Design Suggestion Assistant
-AI-powered assistant that provides smart interior and home design suggestions based on user preferences.
-
----
-
-### 📸 Insta Clone – Simple Social Media Web Application
-Built a lightweight Instagram-inspired application with post sharing and responsive UI features.
-
----
-
-<!-- ========================= CURRENT LEARNING ========================= -->
-
-## 📚 Currently Learning
-
-- Spring Boot & REST APIs
-- Hibernate & JPA
-- Advanced DSA
-- System Design Basics
-- AI/ML Fundamentals
-- Backend Architecture
-- Scalable Application Development
-
----
-
-<!-- ========================= GITHUB STATS ========================= -->
 
 ## 📊 GitHub Statistics
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vijayaragavan-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=vijayaragavan-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+&nbsp;
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=vijayaragavan-dev&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=vijayaragavan-dev&theme=tokyonight&hide_border=true"/>
+<br/>
 
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayaragavan-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
-<p align="center">
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vijayaragavan-dev&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vijayaragavan-dev&theme=tokyo-night&hide_border=true&area=true"/>
 
-</p>
-
----
-
-<!-- ========================= PROFILE VIEWS ========================= -->
-
-## 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=vijayaragavan-dev&style=for-the-badge&color=0e75b6"/>
-</p>
+</div>
 
 ---
 
-<!-- ========================= PORTFOLIO ========================= -->
+## 🏆 GitHub Trophies
 
-## 🌐 Portfolio
-
-🔗 https://vijayaragavan.vercel.app/
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vijayaragavan-dev&theme=tokyonight&no-frame=true&row=1&column=7" />
+</div>
 
 ---
 
-<!-- ========================= FINAL QUOTE ========================= -->
+<div align="center">
 
-<h3 align="center">
-“Consistency, curiosity, and continuous learning drive great engineering.”
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer&text=Let's%20Build%20Something%20Great&fontSize=24&fontColor=ffffff&fontAlignY=65"/>
 
-<p align="center">
-⭐ Thanks for visiting my profile!
-</p>
+</div>
